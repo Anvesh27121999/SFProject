@@ -1,9 +1,10 @@
 Hello World!!!
 
 login :- feature.
-change :- done by team mate for WI3.
+change 1:- done by team mate for WI3.
 
-:-login feature.
-change:- for the bug two.
+2:-login feature.
+change3:- for the bug two.
 
-Change : For WI6 on local master to test normal push.
+Change4 : For WI6 on local master to test normal push.
+Change5 : By team mate on remote master on bug3.
